@@ -1,6 +1,12 @@
 # Calendar APP
 
+## Installation 
 
+- Yarn Install
+
+## Run
+
+-- Yarn Dev
 
 
 ## Developement steps
